@@ -1,5 +1,7 @@
 <application>
   <component name="UISettings">
+    <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
+    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
