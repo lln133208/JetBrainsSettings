@@ -15,12 +15,11 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;yuanr-TODO)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <filter name="yuanr">
-      <pattern index="2" />
+      <pattern index="-1" />
     </filter>
   </component>
 </application>
