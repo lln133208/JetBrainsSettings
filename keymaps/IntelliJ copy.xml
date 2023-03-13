@@ -19,4 +19,16 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="Back" />
+  <action id="BuildSolutionAction" />
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="Forward" />
+  <action id="GotoLine" />
+  <action id="GotoRow" />
+  <action id="GotoUrlAction" />
+  <action id="PinActiveEditorTab">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ReSharperGotoNextErrorInSolution" />
+  <action id="ReSharperGotoPrevErrorInSolution" />
 </keymap>
