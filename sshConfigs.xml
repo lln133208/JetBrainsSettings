@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="onprem.befunny.me" id="3f28e21d-90cf-450b-94fd-4316bc4547b9" port="60464" nameFormat="DESCRIPTIVE" username="Pj45cbp1" useOpenSSHConfig="false" />
+      <sshConfig authType="PASSWORD" host="onprem.befunny.me" id="3f28e21d-90cf-450b-94fd-4316bc4547b9" port="60149" nameFormat="DESCRIPTIVE" username="8I6afys4" useOpenSSHConfig="false" />
     </configs>
   </component>
 </application>
