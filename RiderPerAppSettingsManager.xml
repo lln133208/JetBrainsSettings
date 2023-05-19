@@ -4,6 +4,7 @@
       <set>
         <option value="Bookmarks" />
         <option value="TODO" />
+        <option value="Unit Tests" />
       </set>
     </option>
     <option name="oldToolWindowStateMigrated" value="true" />
