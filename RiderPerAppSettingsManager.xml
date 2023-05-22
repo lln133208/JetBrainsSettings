@@ -1,5 +1,14 @@
 <application>
   <component name="RiderPerAppSettingsManager">
+    <option name="enabledBlacklistToolWindowsId">
+      <set>
+        <option value="Bookmarks" />
+        <option value="TODO" />
+        <option value="Unit Tests" />
+      </set>
+    </option>
+    <option name="oldToolWindowStateMigrated" value="true" />
+    <option name="perIdeMigrationStage" value="1" />
     <option name="toolWindowsPerApp" value="true" />
   </component>
 </application>

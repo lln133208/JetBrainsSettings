@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Backend log only notifications" />
+    <notification groupId="Xamarin launch" displayType="NONE" />
+    <notification groupId="Xcode" displayType="NONE" />
+    <notification groupId="Xcode settings warnings" displayType="NONE" />
+  </component>
+</application>
