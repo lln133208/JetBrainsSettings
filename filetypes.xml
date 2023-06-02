@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="inputactions" approved="true" type="JSON" />
+      <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>
