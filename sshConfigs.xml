@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="onprem.befunny.me" id="3c34c2f2-448a-4128-8a32-46b15cf7297d" port="2222" nameFormat="DESCRIPTIVE" username="BEFUNNY\administrator" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="10.81.240.57" id="76899fa0-1c2e-4110-a203-ccfc5857139f" port="2222" nameFormat="DESCRIPTIVE" username="XSCAD\administrator" useOpenSSHConfig="false" />
     </configs>
   </component>
 </application>
